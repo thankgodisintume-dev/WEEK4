@@ -1,6 +1,6 @@
 # VUA-SEN307 Week 4: Normalization of the Registration Sheet
 
-Name: Ogah Christopher Matric No: VUG/SEN/24/11932
+Name: ISINTUME THANKGOD KOSISOCHUKWU No: VUG/SEN/25/14777
 
 ## 0. Unnormalized table
 
